@@ -1,0 +1,16 @@
+:root {
+/*Color Palette*/
+--bgDark: #48525B;
+--bgLight: #F0E6EF;
+--YoutubeRed: #D00000;
+
+}
+
+* {
+background-color: var(--bgDark);
+
+}
+
+h1 {
+color: var(--YoutubeRed);
+}
